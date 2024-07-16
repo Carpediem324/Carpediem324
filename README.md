@@ -24,7 +24,7 @@ I am studying Computer Science and Engineering and have been involved in various
 1st out of 37 teams
 
 ![image](https://github.com/user-attachments/assets/3376feee-99e3-47ca-b214-edfdcbd0db52)
-
+https://www.youtube.com/live/g-u4luKR8nU?si=1tMJbcV1_7eGXlJx&t=16490
 
 ### About Me 💡
 I am passionate about robotics, autonomous driving, and localization. I constantly seek to improve my skills and contribute to innovative projects in these fields.

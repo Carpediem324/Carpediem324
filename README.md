@@ -35,3 +35,6 @@ Feel free to reach out to me at s01087350661@gmail.com
 ### Portfolio 
 
 https://computer-vision.notion.site/Shin-HyeonHak-s-Portfolio-7b067560a36c46b0910e830ef27b7785
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Carpediem324)

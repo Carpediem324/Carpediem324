@@ -8,6 +8,7 @@ I am studying Computer Science and Engineering and have been involved in various
   Bachelor of Computer Engineering
 
 ### Experience and Activities 🚀
+- Yeosu city youth intern
 - Internship at Korea Atomic Energy Research Institute (KAERI)
 - SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) (In Progress)
 

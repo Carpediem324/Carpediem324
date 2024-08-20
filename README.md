@@ -5,7 +5,7 @@ I am studying Computer Science and Engineering and have been involved in various
 
 ### Education 🎓
 - **Korea University of Technology and Education**  
-  Bachelor of Computer Engineering
+  Bachelor of Computer Engineering (Smart IoT track)
 
 ### Experience and Activities 🚀
 - Yeosu city youth intern

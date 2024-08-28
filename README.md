@@ -26,6 +26,7 @@ I am studying Computer Science and Engineering and have been involved in various
 
 ![image](https://github.com/user-attachments/assets/3376feee-99e3-47ca-b214-edfdcbd0db52)
 https://www.youtube.com/live/g-u4luKR8nU?si=1tMJbcV1_7eGXlJx&t=16490
+
 https://www.yna.co.kr/view/AKR20231017031600003
 
 ### About Me 💡

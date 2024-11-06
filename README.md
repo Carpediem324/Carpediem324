@@ -36,7 +36,7 @@ https://www.yna.co.kr/view/AKR20231017031600003
 I am passionate about robotics, autonomous driving, and localization. I constantly seek to improve my skills and contribute to innovative projects in these fields.
 
 ### Contact
-Feel free to reach out to me at s01087350661@gmail.com 
+Feel free to reach out to me at imur.navigator@gmail.com 
 
 ### Portfolio 
 

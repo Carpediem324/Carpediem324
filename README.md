@@ -47,4 +47,4 @@ https://computer-vision.notion.site/Shin-HyeonHak-s-Portfolio-7b067560a36c46b091
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carpediem324)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/Carpediem324/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Carpediem324)](https://solved.ac/Carpediem324/)

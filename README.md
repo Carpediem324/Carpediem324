@@ -14,7 +14,7 @@ I am studying Computer Science and Engineering and have been involved in various
 
 ### Skills 🛠️
 - **Programming Languages:** C, C++, Python, JavaScript
-- **Fields of Interest:** SDV, Autonomous Driving, Computer Vision, Localization, SLAM, ROS2
+- **Fields of Interest:** Robot, SDV, Autonomous Driving, Computer Vision, Localization, SLAM, ROS2
 
 ### **Award**
 

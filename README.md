@@ -10,7 +10,7 @@ I am studying Computer Science and Engineering and have been involved in various
 ### Experience and Activities 🚀
 - Yeosu city youth intern
 - Internship at Korea Atomic Energy Research Institute (KAERI)
-- SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) (In Progress)
+- SAMSUNG SW/AI ACADEMY FOR YOUTH (SSAFY) (In Progress)
 
 ### Skills 🛠️
 - **Programming Languages:** C, C++, Python, JavaScript

@@ -38,9 +38,9 @@ I am passionate about robotics, autonomous driving, and localization. I constant
 ### Contact
 Feel free to reach out to me at imur.navigator@gmail.com 
 
-### Portfolio 
+### Portfolio (Figma)
 
-https://computer-vision.notion.site/Shin-HyeonHak-s-Portfolio-7b067560a36c46b0910e830ef27b7785
+[https://computer-vision.notion.site/Shin-HyeonHak-s-Portfolio-7b067560a36c46b0910e830ef27b7785](https://www.figma.com/slides/ra4HLIvQrHqCSovR9ewMO0/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=5-2&t=1abZU5wOQmJfi6JL-1)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carpediem324)](https://github.com/anuraghazra/github-readme-stats)

@@ -40,12 +40,4 @@ I am passionate about robotics, autonomous driving, and localization. I constant
 Feel free to reach out to me at imur.navigator@gmail.com 
 
 ### Portfolio (Figma)
-
-[Korean Portfolio](https://www.figma.com/slides/ra4HLIvQrHqCSovR9ewMO0/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=5-2&t=1abZU5wOQmJfi6JL-1)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carpediem324)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carpediem324)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Carpediem324)](https://solved.ac/Carpediem324/)
+[PortFolio](https://carpediem324.github.io/#home)
